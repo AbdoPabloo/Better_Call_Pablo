@@ -60,7 +60,7 @@
 
 }
 
-.shape4 {
+.wsm {
     background-color: #d4d4d4;
     border-left: 5px solid red;
     display: block;
@@ -71,13 +71,5 @@
 
 }
 
-.shape5 {
-    background-color: #d4d4d4;
-    border-left: 5px solid #009688;
-    display: block;
-    padding: 10px;
-    outline: #d4d4d4 solid 10px;
-    margin-bottom: 25px;
 
-}
 
