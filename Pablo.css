@@ -1,0 +1,83 @@
+.div1 {
+    background-image: url(/HomeBanner.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.h1 {
+    position: absolute;
+    margin: 100px 0px 0px 10px;
+    color: white;
+
+}
+
+.p1 {
+    position: absolute;
+    margin: 200px 0px 0px 15px;
+    color: red;
+
+}
+
+.shape1 {
+    background-color: #d4d4d4;
+    border: 5px solid red;
+    outline: 5px solid black;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.shape2 {
+    background-color: #d4d4d4;
+    border-style: solid;
+    border-top-color: blue;
+    border-right-color: green;
+    border-bottom-color: blue;
+    border-left-color: green;
+    outline: 5px solid black;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.shape3 {
+    background-color: #d4d4d4;
+    border-style: dashed;
+    border-top-color: red;
+    border-right-color: green;
+    border-bottom-color: blue;
+    border-left-color: yellow;
+    outline: 5px solid black;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.shape4 {
+    background-color: #d4d4d4;
+    border-left: 5px solid red;
+    display: block;
+    padding: 10px;
+    outline: #d4d4d4 solid 15px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+
+}
+
+.shape5 {
+    background-color: #d4d4d4;
+    border-left: 5px solid #009688;
+    display: block;
+    padding: 10px;
+    outline: #d4d4d4 solid 10px;
+    margin-bottom: 25px;
+
+}
+
